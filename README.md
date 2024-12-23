@@ -6,20 +6,24 @@ https://docs.google.com/spreadsheets/d/1qO3alu1R5jUtkZY4ZE9roMqQS_ee_Yf38PIKJ9TH
 # About PS1 & PS2 Saves
 DuckStation saves go into Documents/Duckstation/memcards
 
-PS2 saves need to be imported into your memory card using the memory card manager in PCSX2.
+PS2 .max saves need to be imported into your memory card using the memory card manager in PCSX2.
+
+For real PS2 console, use this guide: https://www.reddit.com/r/ps2/comments/sq45b0/comment/hwkddco/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 # About Gamecube Saves
 In Dolphin, create a save within the game by launching it once and creating save data. Then rename the .gci save files to match the one Dolphin created.
 
-Use this guide to import .gci saves to a modded wii or modded gamecube: https://wii.hacks.guide/gcsaves.html
+For real Wii/Gamecube consoles, use this guide to import .gci saves on your modded console: https://wii.hacks.guide/gcsaves.html
 
 # About Wii Saves
-In Dolphin go to Tools, import Wii save, then select the .bin save file.
+In Dolphin go to Tools, import Wii Save, then select the .bin save file.
 
-Use SaveManagerGX to import saves on console.
+For real Wii console, use SaveGame Manager GX to import saves.
 
 # About 3DS Saves
-Use Checkpoint to import saves on console.
+In Citra right click your game and choose Open Save Location. Drop the save files in the folder that it opened.
+
+For real 3DS console, use Checkpoint to import saves.
 
 # About RetroArch Saves
 The saves need to be renamed to match your rom file name
