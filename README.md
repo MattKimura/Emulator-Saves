@@ -9,7 +9,14 @@ Feel free to add me on Discord if you'd like to submit saves or discuss anything
 
 # About PS1 and PS2 Saves
 To use the saves, you must import them. For DuckStation you can right click a game then choose edit memory card. Then click on import file.
+
 For PS2 saves, use the memory card editor in PCSX2.
+
+# About Wii Saves
+Use SaveManager GX to import them on console
+
+# About 3DS Saves
+Use Checkpoint to import saves on console
 
 
 
