@@ -6,5 +6,12 @@ https://docs.google.com/spreadsheets/d/1qO3alu1R5jUtkZY4ZE9roMqQS_ee_Yf38PIKJ9TH
 
 Feel free to add me on Discord if you'd like to submit saves or discuss anything: Matt Kimura#5610
 
-Contributing Users:
+
+# About PS1 and PS2 Saves
+To use the saves, you must import them. For DuckStation you can right click a game then choose edit memory card. Then click on import file.
+For PS2 saves, use the memory card editor in PCSX2.
+
+
+
+# Contributing Users:
 - ModdingConsoleRules
