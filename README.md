@@ -5,3 +5,6 @@ You can find descriptions about each save on the spreadsheet:
 https://docs.google.com/spreadsheets/d/1qO3alu1R5jUtkZY4ZE9roMqQS_ee_Yf38PIKJ9THP6Q/edit?usp=sharing
 
 Feel free to add me on Discord if you'd like to submit saves or discuss anything: Matt Kimura#5610
+
+Contributing Users:
+- ModdingConsoleRules
