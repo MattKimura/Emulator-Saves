@@ -8,6 +8,9 @@ DuckStation saves go into Documents/Duckstation/memcards
 
 PS2 saves need to be imported into your memory card using the memory card manager in PCSX2.
 
+# About Gamecube Saves
+In Dolphin, create a save within the game by launching it once and creating save data. Then rename the .gci save files to match the one Dolphin created.
+
 # About Wii Saves
 In Dolphin go to Tools, import Wii save, then select the .bin save file.
 
