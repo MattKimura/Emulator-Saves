@@ -32,4 +32,5 @@ The saves need to be renamed to match your rom file name
 
 
 # Contributing Users
+- MattKimura
 - ModdingConsolesRules
