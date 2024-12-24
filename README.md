@@ -21,9 +21,9 @@ In Dolphin go to Tools, import Wii Save, then select the .bin save file.
 For real Wii console, use SaveGame Manager GX to import saves.
 
 # About 3DS Saves
-In Citra right click your game and choose Open Save Location. Drop the save files in the folder that it opened.
+In Citra right click your game and choose Open Save Location. Drop the save files in the folder that it opened. Note: The save files will be one or several files, not a folder.
 
-For real 3DS console, use Checkpoint to import saves.
+For real 3DS console, use Checkpoint to import saves. Be sure to launch the game once so that save data is created if none exists. Make a save backup in Checkpoint first and then replace the files with the downloaded ones, then import the save in Checkpoint.
 
 # About RetroArch Saves
 The saves need to be renamed to match your rom file name
