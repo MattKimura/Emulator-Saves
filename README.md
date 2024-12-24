@@ -25,6 +25,8 @@ In Citra right click your game and choose Open Save Location. Drop the save file
 
 For real 3DS console, use Checkpoint to import saves. Be sure to launch the game once so that save data is created if none exists. Make a save backup in Checkpoint first and then replace the files with the downloaded ones, then import the save in Checkpoint.
 
+Note: 3DS saves are generally region free, which is why they aren't labeled by region.
+
 # About RetroArch Saves
 The saves need to be renamed to match your rom file name
 
