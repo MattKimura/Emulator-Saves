@@ -27,6 +27,11 @@ For real 3DS console, use Checkpoint to import saves. Be sure to launch the game
 
 Note: 3DS saves are generally region free, which is why they aren't labeled by region.
 
+# About Switch Saves
+In any switch emulator just right click your game and choose "open save data location" then drag the save files into this path.
+
+For modded Switch, use homebrew apps such as Checkpoint/JKSV to import saves. First create save data by launching a game once and closing.
+
 # About RetroArch Saves
 The saves need to be renamed to match your rom file name
 
